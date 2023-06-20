@@ -5,12 +5,12 @@
 
 ```javascript
 const todor: Developer = {
-    code: ["Java", "Javascript", "C++"],
+    code: ["Java", "Javascript", "Dart"],
     technologies: {
         backEnd: ["Eclipse", "WebStorm", "CLion"],
-        frontEnd: ["React"],
+        frontEnd: ["React", "Flutter"],
         devOps: ["Git"],
-        databases: ["MSSQL"]
+        databases: ["MSSQL", "Firebase"]
     },
     education: ["PPMG Geo Milev"],
     hobbies: ["Music", "Robotics", "Web site building"],
