@@ -22,7 +22,7 @@ const todor: Developer = {
 
 ### SQL tasks 
 
-![SQL](https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg)
+<img src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" width="400">
 
 Some SQL tasks which i have made.
 
