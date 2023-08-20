@@ -53,9 +53,16 @@ const todor: Developer = {
 
 ## 🚀 My project
 
-<a href="https://github.com/tdmitev/Hotel-manager" target="_blank">
-  <img src="https://yourimageurl.com/project1-image.jpg" alt="Hotel_manager" width="400">
-</a>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/tdmitev/tdmitev/blob/main/Hotel_manager.png" alt="Hotel_manager" width="400">
+    </td>
+    <td style="vertical-align: middle;">
+      &larr; Click there
+    </td>
+  </tr>
+</table>
 
 ## ⚡GitHub Stats
 
