@@ -24,7 +24,7 @@ const todor: Developer = {
 
 <div style="display: flex; align-items: center;">
 <img src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" alt="SQL" width="200">
-  <a href="https://github.com/tdmitev/SQL" target="_blank" style="margin-left: 10px;">
+  <a href="https://github.com/tdmitev/SQL" target="_blank">
   <img src="https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
   </a>
 </div>
