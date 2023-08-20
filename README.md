@@ -22,25 +22,26 @@ const todor: Developer = {
 
 ## 🚀 My Projects
 
-### SQL tasks 
-
-<div style="display: flex; align-items: center;">
-<img src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" alt="SQL" width="200">
-</div>
-
-Some SQL tasks which i have made.
-
-[![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tdmitev/SQL)
-
-### SoftUni Fundamentals with JavaScript
-
-<div style="display: flex; align-items: center;">
-<img src="https://softuni.bg/Content/images/open-graph/university-default-og.png" alt="SoftUni" width="200">
-</div>
-
-JavaScript tasks
-
-[![View tasks](https://img.shields.io/badge/View%20Tasks-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tdmitev/SoftUni_Fundamentals_JS)
+<table>
+  <tr>
+    <td>
+      <h3>SQL tasks</h3>
+      <img src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" alt="SQL" width="200">
+      <p>Some SQL tasks which I have made.</p>
+      <a href="https://github.com/tdmitev/SQL">
+        <img src="https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+      </a>
+    </td>
+    <td>
+      <h3>SoftUni Fundamentals with JavaScript</h3>
+      <img src="https://softuni.bg/Content/images/open-graph/university-default-og.png" alt="SoftUni" width="200">
+      <p>JavaScript tasks</p>
+      <a href="https://github.com/tdmitev/SoftUni_Fundamentals_JS">
+        <img src="https://img.shields.io/badge/View%20Tasks-blue?style=for-the-badge&logo=github&logoColor=white" alt="View tasks">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## ⚡GitHub Stats
