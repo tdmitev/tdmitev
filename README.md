@@ -17,6 +17,26 @@ const todor: Developer = {
     goal: "To make interesting projects by implementing my innovativeness." 
 };
 ```
+
+## 🚀 My Projects
+
+### SQL tasks 
+
+!(https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg)
+
+Some SQL tasks which i have made.
+
+[View Project](https://github.com/tdmitev/SQL)
+
+### Project 2: Project Name
+
+![Project 2](https://yourimageurl.com/project2-image.jpg)
+
+Short description of project 2.
+
+[View Project](https://github.com/yourusername/project2)
+
+
 ## ⚡GitHub Stats
 
 <a href="https://github.com/tdmitev">
