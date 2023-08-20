@@ -34,7 +34,9 @@ Some SQL tasks which i have made.
 
 ### SoftUni Fundamentals with JavaScript
 
-![](https://softuni.bg/Content/images/open-graph/university-default-og.png)
+<div style="display: flex; align-items: center;">
+<img src="https://softuni.bg/Content/images/open-graph/university-default-og.png" alt="SoftUni" width="200">
+</div>
 
 JavaScript tasks
 
