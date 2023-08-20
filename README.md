@@ -22,9 +22,9 @@ const todor: Developer = {
 
 ## 🚀 My Projects
 
-<table>
+<table cellspacing="0" cellpadding="0" border="5" style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td>
+    <td width="30%" style="padding: 10px; vertical-align: top;">
       <h3>SQL tasks</h3>
       <img src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" alt="SQL" width="200">
       <p>Some SQL tasks which I have made.</p>
@@ -32,7 +32,7 @@ const todor: Developer = {
         <img src="https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
       </a>
     </td>
-    <td>
+    <td width="30%" style="padding: 10px; vertical-align: top;">
       <h3>SoftUni Fundamentals with JavaScript</h3>
       <img src="https://softuni.bg/Content/images/open-graph/university-default-og.png" alt="SoftUni" width="200">
       <p>JavaScript tasks</p>
@@ -42,7 +42,6 @@ const todor: Developer = {
     </td>
   </tr>
 </table>
-
 
 ## ⚡GitHub Stats
 
