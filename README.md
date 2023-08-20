@@ -24,8 +24,8 @@ const todor: Developer = {
 
 <div style="display: flex; align-items: center;">
 <img src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" alt="SQL" width="200">
-  <a href="https://github.com/tdmitev/SQL" target="_blank">
-    <button style="margin-left: 10px;">View Project</button>
+  <a href="https://github.com/tdmitev/SQL" target="_blank" style="margin-left: 10px; text-decoration: none;">
+    <button style="padding: 10px 20px; border: none; border-radius: 5px; background-color: #3498db; color: white; cursor: pointer;">View Project</button>
   </a>
 </div>
 
