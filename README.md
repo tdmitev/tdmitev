@@ -40,6 +40,14 @@ const todor: Developer = {
         <img src="https://img.shields.io/badge/View%20Tasks-blue?style=for-the-badge&logo=github&logoColor=white" alt="View tasks">
       </a>
     </td>
+       <td width="30%" style="padding: 10px; vertical-align: top;">
+      <h3>Java Eclipse tasks and programs</h3>
+      <img src="https://miro.medium.com/v2/resize:fit:800/1*KIduRXXNxMsNuW4vuW9vMg.png" alt="Eclipse" width="200">
+      <p>Java Eclipse tasks</p>
+      <a href="https://github.com/tdmitev/Java-Eclipse-GUI">
+        <img src="https://img.shields.io/badge/View%20Tasks-blue?style=for-the-badge&logo=github&logoColor=white" alt="View tasks">
+      </a>
+    </td>
   </tr>
 </table>
 
