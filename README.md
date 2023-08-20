@@ -20,7 +20,7 @@ const todor: Developer = {
 };
 ```
 
-## 🚀 My Projects
+## 💻 My tasks
 
 <table cellspacing="0" cellpadding="0" border="5" style="border-collapse: collapse; width: 100%;">
   <tr>
@@ -29,7 +29,7 @@ const todor: Developer = {
       <img src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" alt="SQL" width="200">
       <p>Some SQL tasks which I have made.</p>
       <a href="https://github.com/tdmitev/SQL">
-        <img src="https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+        <img src="https://img.shields.io/badge/View%20tasks-blue?style=for-the-badge&logo=github&logoColor=white" alt="View tasks">
       </a>
     </td>
     <td width="30%" style="padding: 10px; vertical-align: top;">
@@ -50,6 +50,12 @@ const todor: Developer = {
     </td>
   </tr>
 </table>
+
+## 🚀 My project
+
+<a href="https://github.com/tdmitev/Hotel-manager" target="_blank">
+  <img src="https://yourimageurl.com/project1-image.jpg" alt="Hotel_manager" width="400">
+</a>
 
 ## ⚡GitHub Stats
 
