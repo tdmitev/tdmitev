@@ -32,13 +32,13 @@ Some SQL tasks which i have made.
 
 [![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tdmitev/SQL)
 
-### Project 2: Project Name
+### SoftUni Fundamentals with JavaScript
 
-![Project 2](https://yourimageurl.com/project2-image.jpg)
+![](https://softuni.bg/Content/images/open-graph/university-default-og.png)
 
-Short description of project 2.
+JavaScript tasks
 
-[View Project](https://github.com/yourusername/project2)
+[![View tasks](https://img.shields.io/badge/View%20Tasks-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tdmitev/SoftUni_Fundamentals_JS)
 
 
 ## ⚡GitHub Stats
