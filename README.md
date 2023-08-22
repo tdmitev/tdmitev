@@ -56,7 +56,7 @@ const todor: Developer = {
 <table>
   <tr>
     <td>
-      <a href="https://github.com/tdmitev/Hotel-manager" target="_blank">
+      <a href="https://github.com/tdmitev/Hotel_manager" target="_blank">
         <img src="https://github.com/tdmitev/tdmitev/blob/main/Hotel_manager.png" alt="Hotel_manager" width="400">
       </a>
     </td>
