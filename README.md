@@ -1,4 +1,4 @@
-## Hi, I'm Todor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
+## Hi, I'm Todor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">
 
 ![Todor Mitev](./1.jpg)
 
@@ -7,16 +7,18 @@
 
 ```javascript
 const todor: Developer = {
-    code: ["Java", "Javascript", "Dart"],
+    code: ["Java", "Javascript", "Typescript"],
     technologies: {
-        backEnd: ["Eclipse", "WebStorm", "CLion"],
-        frontEnd: ["React", "Flutter"],
+        backEnd: {
+            languages: ["JavaScript", "TypeScript"],
+            frameworks: ["Node.js", "Express.js"],
+            tools: ["Visual Studio Code", "WebStorm", "Postman", "MongoDB Compass", "GitHub Desktop"],
+            versionControl: ["Git"]
+        },
+        frontEnd: ["Angular"],
         devOps: ["Git"],
-        databases: ["MSSQL", "Firebase"]
-    },
-    education: ["PPMG Geo Milev"],
-    hobbies: ["Music", "Robotics", "Web site building"],
-    goal: "To make interesting projects by implementing my innovativeness." 
+        databases: ["MSSQL", "Firebase", "MongoDB"]
+    }
 };
 ```
 
@@ -56,7 +58,7 @@ const todor: Developer = {
 <table>
   <tr>
     <td>
-      <a href="https://github.com/tdmitev/Hotel_manager" target="_blank">
+      <a href="https://github.com/tdmitev/Hotel-helper" target="_blank">
         <img src="https://github.com/tdmitev/tdmitev/blob/main/Hotel_manager.png" alt="Hotel_manager" width="400">
       </a>
     </td>
