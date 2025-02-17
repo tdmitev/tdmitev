@@ -26,7 +26,7 @@
 
 ## 🏆 Featured Projects
 
-### **🚚 LogiXpert** – Logistics Management System
+### **<img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/blueMainLogo.png" width="50"> LogiXpert** – Logistics Management System
 🔗 [GitHub Repository](https://github.com/tdmitev/logiXpert)
 
 A web application for managing logistics operations, featuring:
@@ -34,10 +34,9 @@ A web application for managing logistics operations, featuring:
 - Shipment tracking and pricing based on weight and delivery type
 - Employee and office management
 - Reports on shipments, revenue, and employee activity
-
 ---
 
-### **🏨 Hotel Manager** – Hotel Management System
+### <img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/hotel-logo.png" width="30" align="center"> **Hotel Manager** – Hotel Management System
 🔗 [GitHub Repository](https://github.com/tdmitev/Hotel-helper)
 
 A comprehensive hotel management system with meal event tracking, featuring:
@@ -46,6 +45,27 @@ A comprehensive hotel management system with meal event tracking, featuring:
 - A dynamic menu page displaying meal events and their respective dishes
 - Guest check-in with room number or name search for accurate meal tracking
 - Statistical tracking of guests attending meals to optimize food preparation
+  
+  <p align="center">
+  <a href="https://raw.githubusercontent.com/tdmitev/tdmitev/main/home_page.png">
+    <img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/home_page.png" width="250">
+  </a>
+  <a href="https://raw.githubusercontent.com/tdmitev/tdmitev/main/meal-event-list.png">
+    <img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/meal-event-list.png" width="250">
+  </a>
+  <a href="https://raw.githubusercontent.com/tdmitev/tdmitev/main/meal-event.png">
+    <img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/meal-event.png" width="250">
+  </a>
+  <a href="https://raw.githubusercontent.com/tdmitev/tdmitev/main/menu-items.png">
+    <img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/menu-items.png" width="250">
+  </a>
+  <a href="https://raw.githubusercontent.com/tdmitev/tdmitev/main/menu.png">
+    <img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/menu.png" width="250">
+  </a>
+  <a href="https://raw.githubusercontent.com/tdmitev/tdmitev/main/guest.png">
+    <img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/guest.png" width="250">
+  </a>
+</p>
 
 ---
 
