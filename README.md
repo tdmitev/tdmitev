@@ -1,77 +1,96 @@
-## Hi, I'm Todor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">
+# Hi there, I'm Todor! 👋
 
-![Todor Mitev](./1.jpg)
+<p align="left">
+        <a href="https://www.linkedin.com/in/todor-mitev-706b02339">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+    <a href="https://github.com/tdmitev">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100005648209189">
+    <img src="https://img.shields.io/badge/-Facebook-00B2FF?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/td_mitev/">
+    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
-[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005648209189)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/td_mitev/) 
+## 🚀 About Me
 
-```javascript
-const todor: Developer = {
-    code: ["Java", "Javascript", "Typescript"],
-    technologies: {
-        backEnd: {
-            languages: ["JavaScript", "TypeScript"],
-            frameworks: ["Node.js", "Express.js"],
-            tools: ["Visual Studio Code", "WebStorm", "Postman", "MongoDB Compass", "GitHub Desktop"],
-            versionControl: ["Git"]
-        },
-        frontEnd: ["Angular"],
-        devOps: ["Git"],
-        databases: ["MSSQL", "Firebase", "MongoDB"]
-    }
-};
-```
+🔹 Passionate **Programmer** interested in both front-end and back-end development.  
+🔹 I specialize in **JavaScript**, **TypeScript**, **Java Spring**, **Node.js**, **Express.js**, **Angular**, **MySQL**, and **MongoDB**.  
+🔹 I work with various development tools like **Visual Studio Code**, **IntelliJ IDEA**, **Postman**, **MongoDB Compass**, **MySQL Workbench**, and **GitHub Desktop**.  
+🔹 Constantly learning, innovating, and striving to build efficient and scalable applications.  
 
-## 💻 My tasks
+---
 
-<table cellspacing="0" cellpadding="0" border="5" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td width="30%" style="padding: 10px; vertical-align: top;">
-      <h3>SQL tasks</h3>
-      <img src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" alt="SQL" width="200">
-      <p>Some SQL tasks which I have made.</p>
-      <a href="https://github.com/tdmitev/SQL">
-        <img src="https://img.shields.io/badge/View%20tasks-blue?style=for-the-badge&logo=github&logoColor=white" alt="View tasks">
-      </a>
-    </td>
-    <td width="30%" style="padding: 10px; vertical-align: top;">
-      <h3>SoftUni Fundamentals with JavaScript</h3>
-      <img src="https://softuni.bg/Content/images/open-graph/university-default-og.png" alt="SoftUni" width="200">
-      <p>JavaScript tasks</p>
-      <a href="https://github.com/tdmitev/SoftUni_Fundamentals_JS">
-        <img src="https://img.shields.io/badge/View%20Tasks-blue?style=for-the-badge&logo=github&logoColor=white" alt="View tasks">
-      </a>
-    </td>
-       <td width="30%" style="padding: 10px; vertical-align: top;">
-      <h3>Java Eclipse tasks and programs</h3>
-      <img src="https://miro.medium.com/v2/resize:fit:800/1*KIduRXXNxMsNuW4vuW9vMg.png" alt="Eclipse" width="200">
-      <p>Java Eclipse tasks</p>
-      <a href="https://github.com/tdmitev/Java-Eclipse-GUI">
-        <img src="https://img.shields.io/badge/View%20Tasks-blue?style=for-the-badge&logo=github&logoColor=white" alt="View tasks">
-      </a>
-    </td>
-  </tr>
-</table>
+## 🏆 Featured Projects
 
-## 🚀 My project
+### **🚚 LogiXpert** – Logistics Management System
+🔗 [GitHub Repository](https://github.com/tdmitev/logiXpert)
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/tdmitev/Hotel-helper" target="_blank">
-        <img src="https://github.com/tdmitev/tdmitev/blob/main/Hotel_manager.png" alt="Hotel_manager" width="400">
-      </a>
-    </td>
-    <td style="vertical-align: middle;">
-    &larr;  Click there 
-    </td>
-  </tr>
-</table>
+A web application for managing logistics operations, featuring:
+- User authentication and role-based access control
+- Shipment tracking and pricing based on weight and delivery type
+- Employee and office management
+- Reports on shipments, revenue, and employee activity
 
-## ⚡GitHub Stats
+---
+
+### **🏨 Hotel Manager** – Hotel Management System
+🔗 [GitHub Repository](https://github.com/tdmitev/Hotel-helper)
+
+A comprehensive hotel management system with meal event tracking, featuring:
+- Creation of meal events (breakfast, lunch, dinner) with specific dates
+- Addition of predefined dishes with images to each meal event
+- A dynamic menu page displaying meal events and their respective dishes
+- Guest check-in with room number or name search for accurate meal tracking
+- Statistical tracking of guests attending meals to optimize food preparation
+
+---
+
+### **🚛 TransportCompany** – Transportation Management System
+🔗 [GitHub Repository](https://github.com/tdmitev/transportCompany)
+
+A system for managing transportation companies, featuring:
+- Vehicle and driver management
+- Trip registration with start and end locations, cargo details, and pricing
+- Employee qualification tracking for specialized transport
+- Revenue tracking and financial reports
+
+---
+
+## 💻 Tech Stack & Tools
+
+### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Development Tools**
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <a href="https://github.com/tdmitev">
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tdmitev&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&count_private=true&include_all_commits=true" />
-
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdmitev&langs_count=6&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&include_all_commits=true&hide=smalltalk,shell,html,scss,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tdmitev&show_icons=true&theme=wight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdmitev&layout=compact&langs_count=6&theme=wight"/>
 </a>
+
+---
+
+💡 **Let's connect! Feel free to explore my projects or reach out on social media.** 🚀
