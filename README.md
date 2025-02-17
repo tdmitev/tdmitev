@@ -34,6 +34,28 @@ A web application for managing logistics operations, featuring:
 - Shipment tracking and pricing based on weight and delivery type
 - Employee and office management
 - Reports on shipments, revenue, and employee activity
+
+  ### 📸 Gallery
+    <p align="center">
+  <a href="https://raw.githubusercontent.com/tdmitev/tdmitev/main/admin_dashboard.png">
+    <img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/admin_dashboard.png" width="250">
+  </a>
+  <a href="https://raw.githubusercontent.com/tdmitev/tdmitev/main/admin_dashboard2.png">
+    <img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/admin_dashboard2.png" width="250">
+  </a>
+  <a href="https://raw.githubusercontent.com/tdmitev/tdmitev/main/modal.png">
+     <img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/modal.png" width="250">
+  </a>
+  <a href="https://raw.githubusercontent.com/tdmitev/tdmitev/main/package.png">
+    <img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/package.png" width="250">
+  </a>
+  <a href="https://raw.githubusercontent.com/tdmitev/tdmitev/main/profile2.png">
+    <img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/profile2.png" width="250">
+  </a>
+  <a href="https://raw.githubusercontent.com/tdmitev/tdmitev/main/register.png">
+     <img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/register.png" width="250">
+  </a>
+</p>
 ---
 
 ### <img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/hotel-logo.png" width="30" align="center"> **Hotel Manager** – Hotel Management System
@@ -45,7 +67,8 @@ A comprehensive hotel management system with meal event tracking, featuring:
 - A dynamic menu page displaying meal events and their respective dishes
 - Guest check-in with room number or name search for accurate meal tracking
 - Statistical tracking of guests attending meals to optimize food preparation
-  
+
+  ### 📸 Gallery
   <p align="center">
   <a href="https://raw.githubusercontent.com/tdmitev/tdmitev/main/home_page.png">
     <img src="https://raw.githubusercontent.com/tdmitev/tdmitev/main/home_page.png" width="250">
