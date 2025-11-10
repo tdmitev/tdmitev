@@ -1,8 +1,8 @@
 # Hi there, I'm Todor! 👋
 
 <p align="left">
-        <a href="https://www.linkedin.com/in/todor-mitev-706b02339">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/todor-mitev-706b02339">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
     <a href="https://github.com/tdmitev">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -17,10 +17,36 @@
 
 ## 🚀 About Me
 
-🔹 Passionate **Programmer** interested in both front-end and back-end development.  
-🔹 I specialize in **JavaScript**, **TypeScript**, **Java Spring**, **Node.js**, **Express.js**, **Angular**, **MySQL**, and **MongoDB**.  
-🔹 I work with various development tools like **Visual Studio Code**, **IntelliJ IDEA**, **Postman**, **MongoDB Compass**, **MySQL Workbench**, and **GitHub Desktop**.  
+🔹 Passionate **Full-Stack Developer** interested in both front-end and back-end development.  
+🔹 Specialized in **Java Spring**, **Angular**, **Node.js**, **TypeScript**, and **Express.js**.  
+🔹 Experienced with databases like **MySQL**, **PostgreSQL**, and **MongoDB**.  
+🔹 Proficient with tools such as **VS Code**, **IntelliJ IDEA**, **Postman**, **MySQL Workbench**, and **GitHub Desktop**.  
 🔹 Constantly learning, innovating, and striving to build efficient and scalable applications.  
+
+---
+
+## 💻 Tech Stack & Tools
+
+### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Development Tools**
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -176,47 +202,60 @@ It allows hotel staff to plan, monitor, and analyse daily meals with precision �
 
 ---
 
-### **🚛 TransportCompany** – Transportation Management System
+### 🚛 **TransportCompany** – Transportation Management System  
 🔗 [GitHub Repository](https://github.com/tdmitev/transportCompany)
 
-A system for managing transportation companies, featuring:
-- Vehicle and driver management
-- Trip registration with start and end locations, cargo details, and pricing
-- Employee qualification tracking for specialized transport
-- Revenue tracking and financial reports
+**TransportCompany** is a **Spring Boot–based application** that manages transportation operations for logistics companies.  
+It provides complete control over **employees, vehicles, clients, transport companies, and trips**, featuring analytical reports, financial summaries, and automated revenue tracking.
 
----
+#### ⚙️ Core Highlights
+- 🧭 **Full CRUD REST API** for transports, companies, employees, vehicles, and clients  
+- 💰 **Automatic revenue calculation** when marking transports as paid  
+- 🚚 **Route and transport filtering** by destination, date range, payment status, or driver  
+- 📊 **Analytical reports** aggregating total trips, income, and statistics per driver  
+- 🧾 **JSON data export** for offline reporting (handled by Jackson)  
+- 🧱 **Structured architecture:** Controller → Service → Repository → Model → DTO → Mapper  
+- 🧠 **Business logic validation** (driver qualifications, transport type compatibility, vehicle association)
 
-## 💻 Tech Stack & Tools
+#### 🏗️ Architecture Overview
+| Layer | Description |
+|--------|-------------|
+| 🧩 **Application Core** | `TransportCompanyApplication` initialises the Spring Boot context and REST server |
+| ⚙️ **Persistence Layer** | Spring Data JPA connected to **MySQL**, auto-generating schema (`ddl-auto=create-drop`) |
+| 🌱 **Data Initialisation** | `DataInitializer` loads sample transport types, vehicle categories, and statuses at startup |
+| 🧑‍💼 **Domain Model** | Entities for `Transport`, `Employee`, `Vehicle`, `TransportCompany`, `Client`, `TransportType`, `TransportStatus` |
+| 🔄 **Services** | `TransportServiceImpl`, `EmployeeServiceImpl`, `VehicleServiceImpl`, `ClientServiceImpl`, `TransportCompanyServiceImpl` handle business logic and validations |
+| 💾 **Repositories** | Custom JPA queries for filtering, aggregation (SUM/COUNT), and analytical statistics |
+| 🧮 **DTO & Mapping** | MapStruct mappers convert between entities and DTOs; Jakarta Validation ensures input correctness |
+| 📂 **JSON Export** | Jackson writes transport data to `/data/transports.json` for external reports |
 
-### **Languages & Frameworks**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+#### 🧰 Technologies
+`Java 20`, `Spring Boot`, `Spring Web`, `Spring Data JPA`, `MapStruct`,  
+`Jakarta Bean Validation`, `Jackson`, `Gradle`, `MySQL`
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+#### 🧠 Data Flow
+1. **REST Controllers** receive validated DTO input.  
+2. **MapStruct mappers** convert DTOs into entities.  
+3. **Service layer** applies business rules (qualification checks, company revenue updates).  
+4. **Repositories (Spring Data JPA)** persist data and fetch analytics.  
+5. **Response DTOs** return enriched information with related entity details.  
+6. **Jackson** exports selected data to JSON for offline access.
 
-### **Development Tools**
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-181717?style=for-the-badge&logo=github&logoColor=white)
+#### ⚡ Notable Features
+- Unified exception handling through `ResourceNotFoundException` returning HTTP 404 responses  
+- Modular package structure following Spring conventions (`controller`, `service`, `repository`, `dto`, `mapper`, `model`)  
+- Designed for **local MySQL instance**, requiring valid credentials in `application.properties`  
+- Provides clear separation of concerns and maintainable, testable code architecture  
 
 ---
 
 ## 📊 GitHub Stats
 
 <a href="https://github.com/tdmitev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tdmitev&show_icons=true&theme=wight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdmitev&layout=compact&langs_count=6&theme=wight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tdmitev&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdmitev&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
 </a>
+
 
 ---
 
